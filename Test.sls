@@ -7,15 +7,4 @@ The Different ICERs:
    -India
    -Chenai
 
-Different Serfices offered to Clients:
-   -Outlook
-   -Internet
-   -Navision
-   
-   
-#description
-Different Servers:
-   -kal-rh-nav-02
-   -kal-rh-prt-01
-   -kal-rh-exch-03
-   -kal-rh-rds-02
+
